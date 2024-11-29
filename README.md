@@ -1,16 +1,27 @@
-## Hi there 👋
+## About me:
+👋 Hi there, I'm Mahmoud Elwaleed!
 
-<!--
-**mahmoudelwaleed/mahmoudelwaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Machine Learning/AI Engineer | Enthusiastic Problem Solver
 
-Here are some ideas to get you started:
+📍 Based in Cairo, Egypt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do:
+
+🎯 Passionate about building AI solutions to solve real-world problems.
+
+🚀 Experienced in developing deep learning models for medical imaging, smart healthcare devices, and more.
+
+📊 Skilled in Python, data analysis, machine learning, and computer vision.
+
+## What I’m Working On:
+
+
+🔬 Improving my projects on smart eyewear for dementia patients and X-ray image captioning.
+
+💡 Exploring advanced deep learning techniques like transformers and GANs.
+
+## Get in Touch:
+
+🌐 LinkedIn | 📫 mahmoud19074@icloud.com
+
+📫 mahmoud19074@icloud.com  
