@@ -22,6 +22,6 @@
 
 ## Get in Touch:
 
-🌐 LinkedIn | 📫 mahmoud19074@icloud.com
+🌐 LinkedIn: www.linkedin.com/in/mahmoud-elwaleed-b3a7aa311
 
 📫 mahmoud19074@icloud.com  
