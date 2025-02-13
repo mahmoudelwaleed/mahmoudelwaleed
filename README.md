@@ -1,27 +1,33 @@
-## About me:
-👋 Hi there, I'm Mahmoud Elwaleed!
+👋 Hi, I'm Mahmoud Elwaleed!
+💻 Machine Learning & AI Engineer | Problem Solver
+📍 Cairo, Egypt | 📫 mahmoud19074@icloud.com
 
-💻 Machine Learning/AI Engineer | Enthusiastic Problem Solver
+🚀 What I Do
+Passionate about building AI-driven solutions to tackle real-world challenges. My expertise spans:
 
-📍 Based in Cairo, Egypt
+Deep Learning & Computer Vision – Medical imaging, smart healthcare devices, and image captioning.
+Multi-Agent AI Systems – Intelligent automation for marketing, analytics, and decision-making.
+AI for Sports Analytics – Player tracking and performance analysis with YOLO.
+🛠 Skills
+✔ Python | SQL | C++ | Git | GitHub Actions
+✔ ML | DL | RL | NLP | RAG | Agentic AI
+✔ Data Analysis | ETL | Data Modeling | DWH
+✔ Power BI | Tableau | Matplotlib | Seaborn | Plotly
 
-## What I Do:
+📌 Projects
+🔬 Smart Eyewear for Dementia Patients – AI-powered eyewear with face recognition, GPS tracking, and real-time audio assistance.
+📊 Multi-Agent Marketing & Analytics System – AI-driven content creation, campaign optimization, and dashboard generation.
+⚽ Football Player Tracking & Analysis – YOLO-based tracking, clustering, and sports performance analytics.
+🩺 Chest X-ray Image Captioning – CNN + RNN model for automated medical report generation.
 
-🎯 Passionate about building AI solutions to solve real-world problems.
+🎓 Education
+📍 B.Sc. in Communications & Electronics Engineering – Helwan University, 2019 – 2024
 
-🚀 Experienced in developing deep learning models for medical imaging, smart healthcare devices, and more.
+📜 Certifications
+🏆 AI Internship – Digital Egypt Youth | NTI
+🏆 Machine Learning for NLP – AWS Academy
+🏆 AI Training – Huawei Egyptian Talents Academy
 
-📊 Skilled in Python, data analysis, machine learning, and computer vision.
-
-## What I’m Working On:
-
-
-🔬 Improving my projects on smart eyewear for dementia patients and X-ray image captioning.
-
-💡 Exploring advanced deep learning techniques like transformers and GANs.
-
-## Get in Touch:
-
-🌐 LinkedIn: www.linkedin.com/in/mahmoud-elwaleed-b3a7aa311
-
-📫 mahmoud19074@icloud.com  
+🌐 Connect with Me
+🔗 LinkedIn
+🔗 GitHub
